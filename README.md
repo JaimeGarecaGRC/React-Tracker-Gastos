@@ -1,8 +1,21 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Tracker de Gastos hecho en React
 
-Currently, two official plugins are available:
+Es un tracker de gastos de donde se utilizo React para hacer la aplicacion web.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Para inicializarlo solo debe importarse el proyecto (que es de uso publico) y usar los siguientes comandos:
+
+ ```
+npm i
+
+```
+ ```
+npm run dev
+
+```
+
+
+## Autor
+
+- [@jaimegarecagrc](https://github.com/JaimeGarecaGRC)
+
